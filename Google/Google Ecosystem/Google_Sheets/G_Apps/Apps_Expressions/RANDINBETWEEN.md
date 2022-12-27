@@ -1,0 +1,6 @@
+```javascript
+
+RANDINBETWEEN(lower, upper)
+
+
+```
