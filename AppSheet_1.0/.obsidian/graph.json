@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#expression",
+      "color": {
+        "a": 1,
+        "rgb": 65471
+      }
+    },
+    {
+      "query": "tag:#automation",
+      "color": {
+        "a": 1,
+        "rgb": 28415
+      }
+    },
+    {
+      "query": "tag:#appsheet",
+      "color": {
+        "a": 1,
+        "rgb": 16732754
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 3.0030232013124,
+  "lineSizeMultiplier": 1.14635416666667,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 16.9791666666667,
+  "linkStrength": 0.767361924849621,
+  "linkDistance": 500,
+  "scale": 0.051999747650438605,
+  "close": true
+}

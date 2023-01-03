@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "2c151b5f933dab25",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a16d870ff5cbebf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eae58e814f109c38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "App Templates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0372075d68bda7a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e7575f4c3366344",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "705c159cc58de4dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f535bff07ad7921",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3770b540babf02b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d275e1d21e6e17ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c5ab3b86791aea5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb6bcfad38a4e9dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "App Templates.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42be9d1ec5485a56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "App Templates.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df0ad931bf9c184f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c11336b322eba0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "App Templates.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "eae58e814f109c38",
+  "lastOpenFiles": [
+    "📍sheets.md",
+    "📍appsheet.md",
+    "📌Tracker.md",
+    "Practice Projects/Products and LOTS _ 1.0.md",
+    "App Templates.md",
+    "Feature List.md",
+    "Practice Projects/📲Inventory Request Form 1.0.md",
+    "Practice Projects/🧩Data_Sources.md",
+    "Practice Projects/📲 Inventory Request Form 1.1.md",
+    "Practice Projects/📌Links to Resources.md"
+  ]
+}

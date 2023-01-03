@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "tag:#sheets",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#sheets",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.741666666666667,
+  "repelStrength": 16.5833333333333,
+  "linkStrength": 0,
+  "linkDistance": 250,
+  "scale": 0.8137713085498761,
+  "close": false
+}

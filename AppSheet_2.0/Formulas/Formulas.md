@@ -1,0 +1,10 @@
+ #sheets 
+
+## The Formulas
+
+[[QUERY]]
+[[UNIQUE]]
+[[IMPORTRANGE]]
+[[VLOOKUP]]
+[[VLOOKUP_IMPORTRANGE]]
+[[RANDINBETWEEN]]
